@@ -67,6 +67,7 @@ layoutOptions.lefdef_config.lef_files = lefs
 layoutOptions.lefdef_config.produce_blockages = True
 layoutOptions.lefdef_config.produce_cell_outlines = True
 layoutOptions.lefdef_config.produce_obstructions = True
+layoutOptions.lefdef_config.macro_resolution_mode = True
 
 app = pya.Application.instance()
 
